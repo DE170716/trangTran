@@ -275,14 +275,14 @@ function App() {
                 <FaClock /> Thông Tin Lễ Tốt Nghiệp
               </h2>
               <p>
-                <FaGraduationCap /> <strong>Thời gian:</strong> 14:00 chiều, Thứ Hai, ngày 23/06/2025
+                <FaGraduationCap /> <strong>Thời gian:</strong> 14:00 chiều, Thứ Ba, ngày 24/06/2025
               </p>
               <p>
                 <FaMapMarkerAlt /> <strong>Địa điểm:</strong> 03 Quang Trung, Q. Hải Châu, Tp. Đà Nẵng
               </p>
             </div>
             <p className="quote">
-              "Hành trình vạn dặm bắt đầu từ một bước chân. Cảm ơn quý khách đã đồng hành cùng Thùy Trang" -{" "}
+              "Sự hiện diện của bạn là niềm vinh hạnh đổi với Chang" -{" "}
               <span className="quote-author">Trần Thùy Trang</span>
             </p>
           </div>
